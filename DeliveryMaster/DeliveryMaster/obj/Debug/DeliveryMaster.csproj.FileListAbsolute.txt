@@ -1,0 +1,12 @@
+D:\Лаби\Бази даних\Курсова\VS\DeliveryMaster\DeliveryMaster\obj\Debug\DeliveryMaster.csproj.AssemblyReference.cache
+D:\Лаби\Бази даних\Курсова\VS\DeliveryMaster\DeliveryMaster\obj\Debug\DeliveryMaster.Properties.Resources.resources
+D:\Лаби\Бази даних\Курсова\VS\DeliveryMaster\DeliveryMaster\obj\Debug\DeliveryMaster.csproj.GenerateResource.cache
+D:\Лаби\Бази даних\Курсова\VS\DeliveryMaster\DeliveryMaster\obj\Debug\DeliveryMaster.csproj.CoreCompileInputs.cache
+D:\Лаби\Бази даних\Курсова\VS\DeliveryMaster\DeliveryMaster\bin\Debug\DeliveryMaster.exe.config
+D:\Лаби\Бази даних\Курсова\VS\DeliveryMaster\DeliveryMaster\bin\Debug\DeliveryMaster.exe
+D:\Лаби\Бази даних\Курсова\VS\DeliveryMaster\DeliveryMaster\bin\Debug\DeliveryMaster.pdb
+D:\Лаби\Бази даних\Курсова\VS\DeliveryMaster\DeliveryMaster\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Лаби\Бази даних\Курсова\VS\DeliveryMaster\DeliveryMaster\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Лаби\Бази даних\Курсова\VS\DeliveryMaster\DeliveryMaster\obj\Debug\Delivery.904DCC5F.Up2Date
+D:\Лаби\Бази даних\Курсова\VS\DeliveryMaster\DeliveryMaster\obj\Debug\DeliveryMaster.exe
+D:\Лаби\Бази даних\Курсова\VS\DeliveryMaster\DeliveryMaster\obj\Debug\DeliveryMaster.pdb
